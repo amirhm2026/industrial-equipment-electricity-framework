@@ -69,7 +69,7 @@ Python ≥ 3.10 with `numpy`, `pandas`, `matplotlib`, `scipy`, `statsmodels`, `o
 
 If you use this code or dataset, please cite:
 
-> Amirhossein Mostofifar, Helia Khatami , Tianyu Zhang, Tao Ye, Daqian Jiang; Closing a Motor-Power Data Gap in Early-Stage TEA and LCA Using Empirical Equipment Scaling;. [Journal], [year]. DOI: [article DOI]
+> Mostofifar, A.; Khatami, H.; Zhang, T.; Ye, T.; Jiang, D.; Closing a Motor-Power Data Gap in Early-Stage TEA and LCA Using Empirical Equipment Scaling. [Journal], [year]. DOI: [article DOI]
 
 Archived release: Zenodo DOI: 10.5281/zenodo.XXXXXXX
 
