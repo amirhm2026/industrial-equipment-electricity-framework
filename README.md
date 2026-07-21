@@ -16,7 +16,7 @@ This repository contains the vendor-sourced equipment dataset, the per-equipment
 | `Filtration_Units.ipynb` | Full analysis for filtration units (area basis, kW·m⁻²) |
 | `Dryers.ipynb` | Full analysis for dryers (area basis, kW·m⁻²) |
 | `Rotary_Kilns.ipynb` | Full analysis for rotary kilns (volume basis, kW·m⁻³); size-independent constant model |
-| `combined_figures_CORRECTED.py` | Standalone script that regenerates all manuscript and SI figures at 300 DPI (PNG/PDF/TIFF) |
+| `combined_figures.py` | Standalone script that regenerates all manuscript and SI figures at 300 DPI (PNG/PDF/TIFF) |
 | `requirements.txt` | Python dependencies |
 
 ## Framework overview
