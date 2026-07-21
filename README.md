@@ -71,7 +71,7 @@ If you use this code or dataset, please cite:
 
 > Mostofifar, A.; Khatami, H.; Zhang, T.; Ye, T.; Jiang, D.; Closing a Motor-Power Data Gap in Early-Stage TEA and LCA Using Empirical Equipment Scaling. [Journal], [year]. DOI: [article DOI]
 
-Archived release: Zenodo DOI: 10.5281/zenodo.XXXXXXX
+Archived release: Zenodo DOI: 10.5281/zenodo.21465664
 
 ## License
 
