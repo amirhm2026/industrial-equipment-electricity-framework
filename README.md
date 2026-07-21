@@ -1,7 +1,8 @@
 # Empirical Estimation of Electricity Demand of Electric Motor-Driven Systems in Industrial Unit Operations
 
 
-Code and data supporting the manuscript "Closing a Motor-Power Data Gap in Early-Stage TEA and LCA Using Empirical Equipment Scaling."
+Code and data supporting the manuscript "Closing a Motor-Power Data Gap in Early-Stage TEA and LCA Using Empirical Equipment Scaling." 
+Amirhossein Mostofifar; Helia Khatami; Tianyu Zhang; Tao Ye; Daqian Jiang.
 
 This repository contains the vendor-sourced equipment dataset, the per-equipment analysis notebooks, and the standalone figure-generation script used to derive and validate a three-level empirical framework for estimating the electricity demand of electric motor-driven systems (EMDS) in five industrial unit operations: agitated tanks, mixers, filtration units, dryers, and rotary kilns.
 
